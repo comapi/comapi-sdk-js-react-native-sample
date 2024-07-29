@@ -19,7 +19,6 @@ target 'PushTest' do
     :app_path => "#{Pod::Config.instance.installation_root}/.."
   )
 
-  pod 'RNDeviceInfo', :path => '../node_modules/react-native-device-info'
 
   target 'PushTestTests' do
     inherit! :complete

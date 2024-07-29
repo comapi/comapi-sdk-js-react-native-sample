@@ -123,6 +123,8 @@ vendor/
 /packages/helloworld/ios/Podfile.lock
 /packages/rn-tester/Gemfile.lock
 /packages/**/RCTLegacyInteropComponents.mm
+Pods
+build
 
 # Ignore RNTester specific Pods, but keep the __offline_mirrors__ here.
 /packages/rn-tester/Pods/*
