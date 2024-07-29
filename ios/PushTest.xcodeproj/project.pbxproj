@@ -493,7 +493,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = PushTest/PushTest.entitlements;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = JE27K8BAX2;
+				DEVELOPMENT_TEAM = NZRFGP46HH;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = PushTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -505,7 +505,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.dotdigital.comapi.PushTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hpww.winterwonderland;
 				PRODUCT_NAME = PushTest;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -521,7 +521,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = PushTest/PushTest.entitlements;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = JE27K8BAX2;
+				DEVELOPMENT_TEAM = NZRFGP46HH;
 				INFOPLIST_FILE = PushTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -532,7 +532,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.dotdigital.comapi.PushTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hpww.winterwonderland;
 				PRODUCT_NAME = PushTest;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";

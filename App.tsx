@@ -46,7 +46,8 @@ export default function App() {
     Notifications.registerRemoteNotifications();
 
     Notifications.events().registerRemoteNotificationsRegistered((event) => {
-      initialiseComapi(event.deviceToken, setToken);
+      // initialiseComapi(event.deviceToken, setToken);
+      initialiseComapi(event.deviceToken);
     });
 
     Notifications.events().registerRemoteNotificationsRegistrationFailed((event) => {
